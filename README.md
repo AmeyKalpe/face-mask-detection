@@ -7,7 +7,7 @@ The system uses MobileNetV2 architecture, which is a pre-trained CNN model consi
 
 The deep learning model is trained on images with labels as 'with_mask' and 'without_mask', 'with_mask' class consisting of 4150 images and 'without_mask' class consisting of 4195 images. The model is then saved onto disk and loaded during the detection phase.
 
-The dataset can be downloaded using <a href="https://drive.google.com/file/d/1VQoy3K6fUCY2F-SChhk3mO4-CrytBdCc/view?usp=sharing">this link</a>.
+The dataset can be downloaded using <a href="https://drive.google.com/file/d/1VQoy3K6fUCY2F-SChhk3mO4-CrytBdCc/view?usp=sharing" target=_blank>this link</a>.
 
 The detection is done over the live video stream using OpenCV library, first extracting the Region of Interest, and then performing mask detection using the deployed model.
 
