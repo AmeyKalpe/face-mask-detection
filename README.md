@@ -16,3 +16,13 @@ The person wearing a face mask is indicated by a green rectangle around the face
 <i>Code Credits and Inspiration:</i> Prajna Bhandary
 
 <i>Prajna Bhandary Repo Link</i> <a href="https://github.com/prajnasb/observations.git" target="_blank">Link to Repo</a>
+
+Output Results:
+
+![image](https://user-images.githubusercontent.com/56644208/123783639-36ec2e80-d8f4-11eb-9c97-e66cd7e80dc0.png)
+
+![image](https://user-images.githubusercontent.com/56644208/123783662-3ce20f80-d8f4-11eb-8e50-f846f7d93479.png)
+
+![image](https://user-images.githubusercontent.com/56644208/123783686-466b7780-d8f4-11eb-9b1c-b8b16e595b29.png)
+
+![image](https://user-images.githubusercontent.com/56644208/123783714-4c615880-d8f4-11eb-81df-38c9a0723562.png)
