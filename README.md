@@ -13,4 +13,4 @@ The person wearing a face mask is indicated by a green rectangle around the face
 
 <i>Code Credits and Inspiration:</i> Prajna Bhandary
 
-<i>Prajna Bhandary Repo Link</i> <a href="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbnA3ZkFjdTNrNngwUmFESGhjS2JhcU1PMWJDUXxBQ3Jtc0trM1Z0SGlqRnIwdk9JWHRtNUg0UXBjSDhBYTFuZWFuZHZ6My1kUnFETzNsV1d6YXhKZXcwYU5PUWxmWTJKUnJGTnFzVE5xanB1VnBWblp2SnIzNW1Tc3hQWmdxUk1nY0RoQ2J6a1RqRWE0NFVqSzdsdw&q=https%3A%2F%2Fgithub.com%2Fprajnasb%2Fobservations">Link to Repo</a>
+<i>Prajna Bhandary Repo Link</i> <a href="https://github.com/prajnasb/observations.git">Link to Repo</a>
