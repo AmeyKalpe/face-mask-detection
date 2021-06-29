@@ -12,3 +12,4 @@ The person wearing a face mask is indicated by a green rectangle around the face
 The system can be initialized by executing the detect_mask_video.py script, which will use the camera available on the machine executing the script.
 
 <i>Code Credits and Inspiration:</i> Prajna Bhandary
+<i>Prajna Bhandary Repo Link</i> <a href="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqblY0NTd5UkVJbll0OWpXMXRFZW1leG5kRVFQUXxBQ3Jtc0tuS21WQUtkdUxqTEp2WS1QMWljZWlfYmVaMHVQVy1PYmhXVDJEdEtZY1dCZ2lJY0dtM2FpeC02dkVUcjVtN0lNbHZSN21uYXU4TDdpX1RvQUdYOHhTTVAyM0xoRVV2c2h4Zk9jTmsxd09pc0VyWmZkaw&q=https%3A%2F%2Fgithub.com%2Fpik1989%2FFaceMaskDetection">Link to Repo</a>
