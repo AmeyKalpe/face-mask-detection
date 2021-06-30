@@ -11,7 +11,9 @@ The dataset can be downloaded using <a href="https://drive.google.com/file/d/1VQ
 
 The detection is done over the live video stream using OpenCV library, first extracting the Region of Interest, and then performing mask detection using the deployed model.
 
-The person wearing a face mask is indicated by a green rectangle around the face of that person, while a red rectangle is displayed around the face of a person not wearing a face mask.
+The person wearing a face mask is indicated by a green rectangle around the face of that person, while a red rectangle is displayed around the face of a person not wearing a face mask. Moreover, the detection does not start until a person is in front of the camera, until then, a message "No faces detected" is displayed.
+
+The system has been trained on images with people wearing masks partially and the training parameters are optimized as well, which helps to classify people wearing masks partially into the "without_mask" category.
 
 Output Results:
 
@@ -23,10 +25,3 @@ Output Results:
 
 ![image](https://user-images.githubusercontent.com/56644208/123783714-4c615880-d8f4-11eb-81df-38c9a0723562.png)
 
-
-
-
-
-<i>Code Credits and Inspiration:</i> Prajna Bhandary
-
-<i>Prajna Bhandary Repo Link</i> <a href="https://github.com/prajnasb/observations.git" target="_blank">Link to Repo</a>
